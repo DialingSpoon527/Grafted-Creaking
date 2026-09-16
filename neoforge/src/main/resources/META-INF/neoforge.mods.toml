@@ -11,19 +11,19 @@ authors = "DialingSpoon527"
 description = '''
 Adds variants to the creaking based on the wood used to spawn it.
 '''
-logoFile = "icon.png"
+iconFile = "icon.png"
 
 [[dependencies.grafted_creaking]]
 modId = "neoforge"
 type = "required"
-versionRange = "[26.1,)"
+versionRange = "(26.2, )"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.grafted_creaking]]
 modId = "minecraft"
 type = "required"
-versionRange = "[26.1,)"
+versionRange = "(26.2, )"
 ordering = "NONE"
 side = "BOTH"
 
